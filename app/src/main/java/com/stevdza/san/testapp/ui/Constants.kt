@@ -1,8 +1,7 @@
 package com.stevdza.san.testapp.ui
 
 object Constants {
-    const val APP_ID = "test-0-feygv"
-    const val CLIENT_ID ="252146713683-100j5lbg40vli8gnpv0j4q75evtrag7i.apps.googleusercontent.com"
+    
 
     const val ALL_PAYMENT_TYPE = "all payment type"
     const val TARGET = "Target"
